@@ -1,0 +1,4 @@
+2018-04-24 06:41:03,672 INFO  [main] util.VersionInfo: Compiled by jenkins on Thu Jan  4 10:36:42 UTC 2018
+2018-04-24 06:41:03,672 INFO  [main] util.VersionInfo: From source with checksum a3bd627e46a9a94cd352d7e907100bb5
+2018-04-24 06:41:04,127 INFO  [main] util.ServerCommandLine: env:HBASE_LOGFILE=hbase-hbase-regionserver-pndademocloud-hadoop-dn-3.log
+2018-04-24 06:41:04,127 INFO  [main] util.ServerCommandLine: env:PATH=/usr/sbin:/sbin:/usr/lib/ambari-server/*:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/var/lib/ambari-agent

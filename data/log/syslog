@@ -1,0 +1,2 @@
+Sep 17 06:55:14 hillview-leaf-1 CRON[25907]: (CRON) info (No MTA installed, discarding output)
+Sep 17 06:57:01 hillview-leaf-2 CRON[29017]: (root) CMD (/opt/pnda/logstash/open_yarn_log_permissions.sh)
